@@ -1,0 +1,7 @@
+vendor/
+
+# we want to ignore files under this directory (ends with /*)
+.coverage/*
+
+# we want to keep track of this .keep files (starts with !)
+!.keep
